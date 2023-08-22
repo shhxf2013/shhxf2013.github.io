@@ -1,6 +1,11 @@
 # shhxf2013.github.io
 My github profile page
 
+```python
+print('hello world)
+```
+
+
 An interesting artical [here](https://www.mcgill.ca/macdonald/channels/news/canadas-devastating-wildfire-season-prompts-calls-new-approach-349685)
 
 ![](images/hana01cropped.jpg)
